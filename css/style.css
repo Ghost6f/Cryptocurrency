@@ -855,6 +855,12 @@ ol {
 .post-loadmore.site-btn.sb-gradients.sbg-line:after {
 	border-radius: 0px;
 }
+/*---------------------
+	Contact Section
+-----------------------*/
+.contact-page {
+	background: #fff;
+}
 
 /*---------------------
 	Footer Section
