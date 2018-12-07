@@ -54,7 +54,7 @@ p {
 }
 
 img {
-	max-width: 100%;
+		max-width: 200px;
 }
 
 input:focus,
@@ -531,11 +531,13 @@ ol {
 
 .team-members {
 	margin: 0 -10px;
+	padding: 0 15px;
+	text-align: center;
 }
 
 .member {
 	background: #fff;
-	width: calc(20% - 25px);
+	width: calc(33% - 25px);
 	display: inline-block;
 	margin: 0 10px;
 	text-align: center;
@@ -914,8 +916,8 @@ ol {
 	background: #4b6cd0;
 }
 
-.social .google {
-	background: #f03b3b;
+.social .telegram {
+	background: #37AEE2;
 }
 
 .social .instagram {
@@ -1506,9 +1508,7 @@ ol {
 		width: calc(33.333333% - 25px);
 		margin-bottom: 30px;
 	}
-	.team-members {
-		text-align: center;
-	}
+
 	.fact h2 {
 		font-size: 45px;
 		margin-right: 10px;
@@ -1576,9 +1576,6 @@ ol {
 	}
 	.member-social a {
 		margin: 0 5px;
-	}
-	.team-members {
-		text-align: center;
 	}
 	.fact {
 		margin-bottom: 30px;
@@ -1693,10 +1690,6 @@ ol {
 		left: 0;
 		width: auto;
 		margin-top: 50px;
-	}
-	.team-members {
-		margin: 0;
-		padding: 0 15px;
 	}
 	.member {
 		width: 100%;
