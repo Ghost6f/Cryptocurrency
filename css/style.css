@@ -52,9 +52,12 @@ p {
 	color: #75849a;
 	line-height: 1.6;
 }
+.logo {
+		max-width: 200px;
+}
 
 img {
-		max-width: 200px;
+		max-width: 100%;
 }
 
 input:focus,
